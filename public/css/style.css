@@ -1,0 +1,33 @@
+.text-align-center{
+    text-align: center;
+}
+.text-align-left{
+    text-align: left;
+}
+.text-align-right{
+    text-align: right;
+}
+.text-vertical-align-top{
+    vertical-align: text-top;
+}
+.text-weight-Bold{
+    font-weight: bold;
+}
+
+.heading {
+    font-size: medium;
+    font-weight: bold;
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+}
+.tbl-border-solid,
+.tbl-border-solid th,
+.tbl-border-solid td{
+    border: 1px solid #000000;
+    font-size: 8px;
+}
+.tbl-head-color{
+    background-color: #C0C0C0;
+}

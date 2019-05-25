@@ -1,0 +1,6 @@
+{
+    "require": {
+        "doctrine/dbal": "^2.9",
+        "maatwebsite/excel": "^3.1"
+    }
+}
